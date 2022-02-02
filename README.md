@@ -14,3 +14,6 @@
 |Zgłaszanie błędów i sugestii         |`15.06.2022`|`31.08.2022`| 5                     |
 |Udostępnienie środowiska produkcyjnego dla RWSS          |`15.09.2022`|`31.10.2022`| 4                     |
 |Udostępnienie środowiska produkcuyjnego dla studentów          |`30.09.2022`|`31.10.2022`| 4                     |
+
+## Miejsca pozyskiwania danych do projektu
+![image](https://user-images.githubusercontent.com/15375424/152221627-f569b0af-1225-4db6-961c-9799010d5a2f.png)
